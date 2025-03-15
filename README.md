@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**mayuri06b/mayuri06b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate backend developer learning Node.js, Express, and building awesome projects. 🚀
 
-Here are some ideas to get you started:
+## 🌱 Skills:
+- Node.js | Express | MongoDB | REST APIs
+- Git & GitHub | JavaScript | Frontend (HTML, CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Projects:
+- [Task Manager API](https://github.com/yourusername/task-manager)
+- [Real-Time Chat App](https://github.com/yourusername/chat-app)
+
+## 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/mayuri06b/)
+
+---
+⭐️ From Mayuri Barapatre(https://github.com/mayuri06b)
