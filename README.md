@@ -19,9 +19,9 @@
 ## ⚙️ Tech Stack:
 
 - 💻 **Languages:** JavaScript, HTML, CSS  
-- 🌐 **Frontend:** React, Tailwind CSS, Figma, Adobe XD  
+- 🌐 **Frontend:** React, Tailwind CSS, Figma
 - ⚙️ **Backend:** Node.js, Express  
-- 🗄️ **Database:** MongoDB  
+- 🗄️ **Database:** MongoDB, Oracle, MySQL 
 - 🔧 **Tools:** Git, GitHub, Postman  
 - 🤝 **Competitive Programming:** Codeforces, CodeChef  
 
