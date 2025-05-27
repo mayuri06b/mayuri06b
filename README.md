@@ -22,7 +22,7 @@
 - 🌐 **Frontend:** React, Tailwind CSS, Figma
 - ⚙️ **Backend:** Node.js, Express  
 - 🗄️ **Database:** MongoDB, Oracle, MySQL 
-- 🔧 **Tools:** Git, GitHub, Postman  
+- 🔧 **Tools:** Git, GitHub, Postman, Thunderboult
 - 🤝 **Competitive Programming:** Codeforces, CodeChef  
 
 ---
